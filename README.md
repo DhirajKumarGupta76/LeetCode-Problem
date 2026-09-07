@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1154-day-of-the-year) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
