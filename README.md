@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0506-relative-ranks) |
 | [0746-min-cost-climbing-stairs](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0877-stone-game) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0835-image-overlap](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
