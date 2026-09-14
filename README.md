@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0509-fibonacci-number) |
