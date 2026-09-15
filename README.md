@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
 |  |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Quicksort
 |  |
