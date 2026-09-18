@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0506-relative-ranks) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3536-maximum-product-of-two-digits) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0229-majority-element-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1154-day-of-the-year) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0860-lemonade-change) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
