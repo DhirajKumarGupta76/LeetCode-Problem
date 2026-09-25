@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0506-relative-ranks) |
+| [1096-brace-expansion-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0229-majority-element-ii) |
+| [1096-brace-expansion-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1154-day-of-the-year) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0155-min-stack) |
+| [1096-brace-expansion-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## DP on Trees
@@ -467,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0039-combination-sum) |
+| [1096-brace-expansion-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 ## Design
 |  |
 | ------- |
