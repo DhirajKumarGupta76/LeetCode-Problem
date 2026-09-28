@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0229-majority-element-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3903-smallest-stable-index-i) |
