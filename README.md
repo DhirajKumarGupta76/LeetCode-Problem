@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
@@ -541,4 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3498-reverse-degree-of-a-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
