@@ -555,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
