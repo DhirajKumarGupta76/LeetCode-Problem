@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0119-pascals-triangle-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0152-maximum-product-subarray) |
