@@ -2,5 +2,6 @@
 SELECT *
 FROM Cinema
 WHERE id % 2 = 1
-  AND description !='boring'
+  AND id 
+  IN(SELECT id FROM Cinema WHERE description !='boring') 
 ORDER BY rating DESC;
