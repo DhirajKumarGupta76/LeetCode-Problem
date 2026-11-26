@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1154-day-of-the-year) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Indexed Tree
 |  |
